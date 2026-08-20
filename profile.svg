@@ -1,42 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="430" viewBox="0 0 1100 430" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
   <title id="title">Leandro Araújo — terminal profile</title>
-  <desc id="desc">A dark terminal-style profile card with Leandro Araújo's photo and colorful metadata.</desc>
-  <defs>
-    <clipPath id="avatarClip">
-      <circle cx="190" cy="228" r="142"/>
-    </clipPath>
-    <linearGradient id="accent" x1="0" x2="1">
-      <stop offset="0" stop-color="#79c0ff"/>
-      <stop offset="0.5" stop-color="#d2a8ff"/>
-      <stop offset="1" stop-color="#ffa657"/>
-    </linearGradient>
-  </defs>
-
-  <rect width="1100" height="430" rx="18" fill="#0d1117"/>
-  <rect x="1" y="1" width="1098" height="428" rx="17" fill="none" stroke="#30363d" stroke-width="2"/>
-  <circle cx="31" cy="31" r="7" fill="#ff7b72"/>
-  <circle cx="56" cy="31" r="7" fill="#ffa657"/>
-  <circle cx="81" cy="31" r="7" fill="#7ee787"/>
-  <text x="106" y="37" fill="#8b949e" font-family="DejaVu Sans Mono" font-size="17">leandrojo — profile</text>
-
-  <circle cx="190" cy="228" r="151" fill="#161b22" stroke="url(#accent)" stroke-width="4"/>
-  <image href="https://avatars.githubusercontent.com/u/674449?s=400&amp;v=4" x="48" y="86" width="284" height="284" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatarClip)"/>
-
-  <line x1="390" y1="73" x2="1050" y2="73" stroke="#30363d"/>
-  <text x="414" y="117" fill="#7ee787" font-family="DejaVu Sans Mono" font-size="22">$ whoami</text>
-  <text x="414" y="158" fill="#e6edf3" font-family="DejaVu Sans Mono" font-size="29" font-weight="700">Leandro Araújo</text>
-  <text x="414" y="190" fill="#8b949e" font-family="DejaVu Sans Mono" font-size="18">@leandrojo</text>
-
-  <text x="414" y="238" fill="#ff7b72" font-family="DejaVu Sans Mono" font-size="18">ROLE:</text>
-  <text x="525" y="238" fill="#e6edf3" font-family="DejaVu Sans Mono" font-size="18">software builder</text>
-  <text x="414" y="272" fill="#ffa657" font-family="DejaVu Sans Mono" font-size="18">STACK:</text>
-  <text x="525" y="272" fill="#79c0ff" font-family="DejaVu Sans Mono" font-size="18">TypeScript  •  Rust  •  Python</text>
-  <text x="414" y="306" fill="#d2a8ff" font-family="DejaVu Sans Mono" font-size="18">FOCUS:</text>
-  <text x="525" y="306" fill="#7ee787" font-family="DejaVu Sans Mono" font-size="18">products  •  systems  •  agents</text>
-
-  <line x1="414" y1="345" x2="1050" y2="345" stroke="#30363d"/>
-  <text x="414" y="382" fill="#8b949e" font-family="DejaVu Sans Mono" font-size="17">status</text>
-  <text x="489" y="382" fill="#7ee787" font-family="DejaVu Sans Mono" font-size="17">●</text>
-  <text x="510" y="382" fill="#e6edf3" font-family="DejaVu Sans Mono" font-size="17">building in public</text>
-  <text x="414" y="408" fill="#79c0ff" font-family="DejaVu Sans Mono" font-size="16">github.com/leandrojo</text>
+  <desc id="desc">Terminal-style GitHub profile with an ASCII portrait and colorful public profile details.</desc>
+  <rect width="1200" height="560" rx="18" fill="#161b22"/>
+  <rect x="1" y="1" width="1198" height="558" rx="17" fill="none" stroke="#30363d" stroke-width="2"/>
+  <g xml:space="preserve" font-family="monospace">
+    <text x="28" y="36" fill="#e6edf3" font-size="17">       @%%@%%@%W,,</text>
+    <text x="28" y="54" fill="#e6edf3" font-size="17">     ,M*|`||%gNM=]m%%||%N,</text>
+    <text x="28" y="72" fill="#e6edf3" font-size="17">    p'   .'| ` '|||||nj%w</text>
+    <text x="28" y="90" fill="#e6edf3" font-size="17">   ,@L`     .  `   |%j%M</text>
+    <text x="28" y="108" fill="#e6edf3" font-size="17">  /{j'`. .wp@pw,   .  |%wg</text>
+    <text x="28" y="126" fill="#e6edf3" font-size="17">  /{|||@@@@@@@@p@p,       |||</text>
+    <text x="28" y="144" fill="#e6edf3" font-size="17">  ;|]%@@@@@@@@@@@@@       ,||||</text>
+    <text x="28" y="162" fill="#e6edf3" font-size="17">  ;|]%@@@@@@@@@@@@@p   ,''''||||</text>
+    <text x="28" y="180" fill="#e6edf3" font-size="17">  ;|]%@@@@@@@@%%%%%%kh  *|mkr   *</text>
+    <text x="28" y="198" fill="#e6edf3" font-size="17">  ;j%M`      |jkk'  ~nrn=|</text>
+    <text x="28" y="216" fill="#e6edf3" font-size="17">   ! jrr*^`       \"| L"'!: </text>
+    <text x="28" y="234" fill="#e6edf3" font-size="17">    j 1p;,     /  @@    `\mmy`  ,~</text>
+    <text x="28" y="252" fill="#e6edf3" font-size="17">   i r @@@@mMH @@@   ^^^**m%,p , .~</text>
+    <text x="28" y="270" fill="#e6edf3" font-size="17">   | |@@@HHH g@M%%%H,jmgpmb% j</text>
+    <text x="28" y="288" fill="#e6edf3" font-size="17">   ; j%@%%%%[n,|; j;%%%|%%** , [</text>
+    <text x="28" y="306" fill="#e6edf3" font-size="17">    H|%%k%%g%%%||||; j%%%|%%} @</text>
+    <text x="28" y="324" fill="#e6edf3" font-size="17">    \"djjmkL,,'||||,,,wxwx; |#kjk</text>
+    <text x="28" y="342" fill="#e6edf3" font-size="17">      %%%@%%g%%|M%%%|j%ki||[</text>
+    <text x="28" y="360" fill="#e6edf3" font-size="17">       kjj%%kkkl||||||j|j|\"</text>
+    <text x="28" y="378" fill="#e6edf3" font-size="17">        |jm%H@@@%%%kkmk%*i|.,[</text>
+    <text x="28" y="396" fill="#e6edf3" font-size="17">        @p|j%%@%%g%%|M%%*'-;,j</text>
+    <text x="28" y="414" fill="#e6edf3" font-size="17">        |@@@g|'''--''|  `;j%%</text>
+    <text x="28" y="432" fill="#e6edf3" font-size="17">       @@@@@@gmp;,,,,;jM%%</text>
+    <text x="28" y="450" fill="#e6edf3" font-size="17">      @@@@@@@@%%kgi||||j%%k@ .</text>
+    <text x="28" y="468" fill="#e6edf3" font-size="17">    .^['' @@@@HH%b%{ill|kj}%%%% ;</text>
+    <text x="28" y="486" fill="#e6edf3" font-size="17">  =[, . =. %HH%%g@Hgkil|j%j%%* .  .</text>
+    <text x="28" y="522" fill="#8b949e" font-size="15">       leandrojo // profile.svg</text>
+  </g>
+  <g xml:space="preserve" font-family="monospace" font-size="18">
+    <text x="540" y="36" fill="#e6edf3" font-size="21" font-weight="700">leandrojo</text>
+    <line x1="660" y1="30" x2="1160" y2="30" stroke="#8b949e"/>
+    <text x="540" y="69" fill="#ffa657">. OS:</text><text x="675" y="69" fill="#8b949e">...................</text><text x="875" y="69" fill="#79c0ff">macOS, Linux, Windows</text>
+    <text x="540" y="96" fill="#ffa657">. Host:</text><text x="675" y="96" fill="#8b949e">..................</text><text x="875" y="96" fill="#79c0ff">São Paulo, Brasil</text>
+    <text x="540" y="123" fill="#ffa657">. Stack:</text><text x="675" y="123" fill="#8b949e">.................</text><text x="875" y="123" fill="#79c0ff">TypeScript, Rust, Python</text>
+    <text x="540" y="150" fill="#ffa657">. IDE:</text><text x="675" y="150" fill="#8b949e">...................</text><text x="875" y="150" fill="#79c0ff">VS Code, Cursor</text>
+    <text x="540" y="190" fill="#ffa657">- Focus</text><line x1="625" y1="184" x2="1160" y2="184" stroke="#8b949e"/>
+    <text x="540" y="219" fill="#ff7b72">  Products:</text><text x="710" y="219" fill="#e6edf3">interfaces, tools, and systems</text>
+    <text x="540" y="246" fill="#ff7b72">  Systems:</text><text x="710" y="246" fill="#e6edf3">runtime, reliability, automation</text>
+    <text x="540" y="273" fill="#ff7b72">  Agents:</text><text x="710" y="273" fill="#e6edf3">bounded workflows and continuity</text>
+    <text x="540" y="313" fill="#ffa657">- Projects</text><line x1="650" y1="307" x2="1160" y2="307" stroke="#8b949e"/>
+    <text x="540" y="342" fill="#d2a8ff">  forum:</text><text x="710" y="342" fill="#79c0ff">github.com/leandrojo/forum</text>
+    <text x="540" y="369" fill="#d2a8ff">  rhapsody:</text><text x="710" y="369" fill="#79c0ff">github.com/leandrojo/rhapsody</text>
+    <text x="540" y="396" fill="#d2a8ff">  profile:</text><text x="710" y="396" fill="#79c0ff">github.com/leandrojo</text>
+    <text x="540" y="436" fill="#ffa657">- GitHub Snapshot</text><line x1="745" y1="430" x2="1160" y2="430" stroke="#8b949e"/>
+    <text x="540" y="465" fill="#ff7b72">  Repos:</text><text x="690" y="465" fill="#79c0ff">131</text><text x="760" y="465" fill="#ff7b72">Followers:</text><text x="950" y="465" fill="#79c0ff">82</text>
+    <text x="540" y="492" fill="#ff7b72">  Contributions:</text><text x="760" y="492" fill="#7ee787">5,565 in the last year</text>
+    <text x="540" y="523" fill="#8b949e" font-size="14">  snapshot 2026-08-19  •  public profile data</text>
+  </g>
 </svg>
