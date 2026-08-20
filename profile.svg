@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="430" viewBox="0 0 1100 430" role="img" aria-labelledby="title desc">
+  <title id="title">Leandro Araújo — terminal profile</title>
+  <desc id="desc">A dark terminal-style profile card with Leandro Araújo's photo and colorful metadata.</desc>
+  <defs>
+    <clipPath id="avatarClip">
+      <circle cx="190" cy="228" r="142"/>
+    </clipPath>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0" stop-color="#79c0ff"/>
+      <stop offset="0.5" stop-color="#d2a8ff"/>
+      <stop offset="1" stop-color="#ffa657"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1100" height="430" rx="18" fill="#0d1117"/>
+  <rect x="1" y="1" width="1098" height="428" rx="17" fill="none" stroke="#30363d" stroke-width="2"/>
+  <circle cx="31" cy="31" r="7" fill="#ff7b72"/>
+  <circle cx="56" cy="31" r="7" fill="#ffa657"/>
+  <circle cx="81" cy="31" r="7" fill="#7ee787"/>
+  <text x="106" y="37" fill="#8b949e" font-family="DejaVu Sans Mono" font-size="17">leandrojo — profile</text>
+
+  <circle cx="190" cy="228" r="151" fill="#161b22" stroke="url(#accent)" stroke-width="4"/>
+  <image href="https://avatars.githubusercontent.com/u/674449?s=400&amp;v=4" x="48" y="86" width="284" height="284" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatarClip)"/>
+
+  <line x1="390" y1="73" x2="1050" y2="73" stroke="#30363d"/>
+  <text x="414" y="117" fill="#7ee787" font-family="DejaVu Sans Mono" font-size="22">$ whoami</text>
+  <text x="414" y="158" fill="#e6edf3" font-family="DejaVu Sans Mono" font-size="29" font-weight="700">Leandro Araújo</text>
+  <text x="414" y="190" fill="#8b949e" font-family="DejaVu Sans Mono" font-size="18">@leandrojo</text>
+
+  <text x="414" y="238" fill="#ff7b72" font-family="DejaVu Sans Mono" font-size="18">ROLE:</text>
+  <text x="525" y="238" fill="#e6edf3" font-family="DejaVu Sans Mono" font-size="18">software builder</text>
+  <text x="414" y="272" fill="#ffa657" font-family="DejaVu Sans Mono" font-size="18">STACK:</text>
+  <text x="525" y="272" fill="#79c0ff" font-family="DejaVu Sans Mono" font-size="18">TypeScript  •  Rust  •  Python</text>
+  <text x="414" y="306" fill="#d2a8ff" font-family="DejaVu Sans Mono" font-size="18">FOCUS:</text>
+  <text x="525" y="306" fill="#7ee787" font-family="DejaVu Sans Mono" font-size="18">products  •  systems  •  agents</text>
+
+  <line x1="414" y1="345" x2="1050" y2="345" stroke="#30363d"/>
+  <text x="414" y="382" fill="#8b949e" font-family="DejaVu Sans Mono" font-size="17">status</text>
+  <text x="489" y="382" fill="#7ee787" font-family="DejaVu Sans Mono" font-size="17">●</text>
+  <text x="510" y="382" fill="#e6edf3" font-family="DejaVu Sans Mono" font-size="17">building in public</text>
+  <text x="414" y="408" fill="#79c0ff" font-family="DejaVu Sans Mono" font-size="16">github.com/leandrojo</text>
+</svg>
