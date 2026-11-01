@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="1002" viewBox="0 0 640 1002" role="img" aria-labelledby="title desc">
   <title id="title">Leandro Araújo — Senior Software Engineer</title>
-  <desc id="desc">Leandro Araújo. Senior Software Engineer focused on AI agents and backend systems. Building since 2011. Stateful agents, tool integration, observability and workflows with human review. TypeScript, Node.js, React Native, AWS, GCP, Azure and Python for OCR. First employee at meutudo; built its Android and iOS app. Experience with Boticário, Sabesp and a US healthtech. Brazil, UTC-3, remote.</desc>
+  <desc id="desc">Leandro Araújo — Senior Software Engineer focused on AI agents and backend systems, with experience across APIs, cloud and mobile. Building since 2011. At Wave, developed WhatsApp agents and document analysis pipelines. As a consultant for a US healthtech client, built AWS backends for clinical operations and payments. Joined meutudo as its first employee and built the initial Android and iOS app. At Wave, built the new app for its client Sabesp and contributed to the backend-for-frontend. TypeScript, Node.js, React Native, AWS, GCP, Azure and Python for OCR. Brazil, UTC-3, remote.</desc>
   <defs />
   <rect x="1" y="1" width="638" height="1000" rx="20" fill="#10171c" stroke="#304148" stroke-width="2" />
   <g aria-hidden="true">
@@ -49,22 +49,23 @@
     <text x="32" y="160" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="44" font-weight="650" fill="#edf3ef">Araújo</text>
     <text x="34" y="201" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="400" fill="#a5b6ba">Senior Software Engineer</text>
     <text x="34" y="238" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="400" fill="#a6e3c8">Building since 2011</text>
-    <text x="32" y="326" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="46" font-weight="600" fill="#a6e3c8">AI agents &amp;</text>
-    <text x="32" y="379" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="46" font-weight="600" fill="#a6e3c8">backend systems.</text>
-    <text x="34" y="424" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="400" fill="#a5b6ba">From interfaces to the systems</text>
-    <text x="34" y="457" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="400" fill="#a5b6ba">behind them.</text>
-    <path d="M34 484H606" stroke="#304148" />
-    <text x="34" y="520" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="500" fill="#a6e3c8" letter-spacing="1.5">01 / BUILD</text>
-    <text x="34" y="557" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="28" font-weight="400" fill="#edf3ef">State · tools · observability</text>
-    <text x="34" y="593" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="400" fill="#a5b6ba">Workflows with human review.</text>
-    <text x="34" y="649" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="500" fill="#a6e3c8" letter-spacing="1.5">02 / STACK</text>
-    <text x="34" y="685" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="400" fill="#edf3ef">TypeScript · Node.js · React Native</text>
-    <text x="34" y="721" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="25" font-weight="400" fill="#a5b6ba">AWS · GCP · Azure · Python for OCR</text>
-    <path d="M34 749H606" stroke="#304148" />
-    <text x="34" y="785" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="500" fill="#a6e3c8" letter-spacing="1.5">03 / EXPERIENCE</text>
-    <text x="34" y="821" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="27" font-weight="400" fill="#edf3ef">First employee at meutudo.</text>
-    <text x="34" y="856" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="400" fill="#a5b6ba">Built its Android &amp; iOS app.</text>
-    <text x="34" y="892" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="25" font-weight="400" fill="#a5b6ba">Boticário · Sabesp · US healthtech</text>
+    <text x="32" y="306" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="46" font-weight="600" fill="#a6e3c8">AI agents &amp;</text>
+    <text x="32" y="359" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="46" font-weight="600" fill="#a6e3c8">backend systems.</text>
+    <text x="34" y="401" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="400" fill="#a5b6ba">APIs · cloud · mobile products</text>
+    <path d="M34 430H606" stroke="#304148" />
+    <text x="34" y="466" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="500" fill="#a6e3c8" letter-spacing="1.5">01 / AI &amp; BACKEND</text>
+    <text x="34" y="500" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="27" font-weight="400" fill="#edf3ef">Wave: WhatsApp agents and</text>
+    <text x="34" y="532" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="400" fill="#a5b6ba">document analysis pipelines.</text>
+    <text x="34" y="564" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="400" fill="#edf3ef">US healthtech client: AWS backends</text>
+    <text x="34" y="596" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="400" fill="#a5b6ba">for clinical operations and payments.</text>
+    <text x="34" y="646" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="500" fill="#a6e3c8" letter-spacing="1.5">02 / MOBILE PRODUCTS</text>
+    <text x="34" y="680" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="400" fill="#edf3ef">meutudo: first employee; built the</text>
+    <text x="34" y="712" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="400" fill="#a5b6ba">initial Android &amp; iOS app.</text>
+    <text x="34" y="744" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="400" fill="#edf3ef">Sabesp (Wave client): new app</text>
+    <text x="34" y="776" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="400" fill="#a5b6ba">and part of its BFF.</text>
+    <text x="34" y="826" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="500" fill="#a6e3c8" letter-spacing="1.5">03 / CORE STACK</text>
+    <text x="34" y="860" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" font-weight="400" fill="#edf3ef">TypeScript · Node.js · React Native</text>
+    <text x="34" y="892" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="25" font-weight="400" fill="#a5b6ba">AWS · GCP · Azure · Python for OCR</text>
     <text x="34" y="949" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="22" font-weight="400" fill="#a6e3c8">Brazil · UTC−3 · Remote</text>
   </g>
 </svg>
