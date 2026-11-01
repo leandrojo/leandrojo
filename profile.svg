@@ -1,58 +1,88 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="664" viewBox="0 0 1200 664" role="img" aria-labelledby="title desc">
-<title id="title">Leandro Araújo — Senior Software Engineer</title>
-<desc id="desc">AI agents and backend systems, with a product mindset. Building software since 2011. Stateful agents, tool integration, observability and human review. TypeScript, Node.js, React Native, AWS, GCP, Azure and Python for OCR. First employee at meutudo; built its Android and iOS app. Also worked on mobile products for Boticário and Sabesp, and remotely for a US healthtech. Brazil, UTC-3.</desc>
-<defs><linearGradient id="portrait" x1="0" y1="0" x2="0.25" y2="1"><stop stop-color="#b7ebd6"/><stop offset="1" stop-color="#769b98"/></linearGradient></defs>
-<rect x="1" y="1" width="1198" height="662" rx="20" fill="#10171c" stroke="#304148" stroke-width="2"/>
-<g aria-hidden="true"><circle cx="30" cy="27" r="4" fill="#d58c83"/><circle cx="46" cy="27" r="4" fill="#d6bd7c"/><circle cx="62" cy="27" r="4" fill="#8dc9aa"/></g>
-<text x="84" y="32" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="400" fill="#a5b6ba" >~/leandrojo</text>
-<path d="M1 54H1199" stroke="#304148"/>
-<text x="1158" y="32" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="400" fill="#a5b6ba" text-anchor="end">building since 2011</text>
-<path d="M2 55H370V662H20Q2 662 2 644Z" fill="#141f25"/>
-<path d="M370 55V663" stroke="#304148"/>
-<text x="32" y="99" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="16" font-weight="400" fill="#a6e3c8" >$ whoami</text>
-<g transform="translate(24 137) scale(1)" aria-hidden="true" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="15" fill="url(#portrait)" xml:space="preserve" style="white-space:pre">
-<text x="0" y="0">&#160;&#160;&#160;&#160;&#160;&#160;&#160;@%%@%%@%W,,</text>
-<text x="0" y="16">&#160;&#160;&#160;&#160;&#160;,M*|`||%gNM=]m%%||%N,</text>
-<text x="0" y="32">&#160;&#160;&#160;&#160;p&#x27;&#160;&#160;&#160;.&#x27;|&#160;`&#160;&#x27;|||||nj%w</text>
-<text x="0" y="48">&#160;&#160;&#160;,@L`&#160;&#160;&#160;&#160;&#160;.&#160;&#160;`&#160;&#160;&#160;|%j%M</text>
-<text x="0" y="64">&#160;&#160;/{j&#x27;`.&#160;.wp@pw,&#160;&#160;&#160;.&#160;&#160;|%wg</text>
-<text x="0" y="80">&#160;&#160;/{|||@@@@@@@@p@p,&#160;&#160;&#160;&#160;&#160;&#160;&#160;|||</text>
-<text x="0" y="96">&#160;&#160;;|]%@@@@@@@@@@@@@&#160;&#160;&#160;&#160;&#160;&#160;&#160;,||||</text>
-<text x="0" y="112">&#160;&#160;;|]%@@@@@@@@@@@@@p&#160;&#160;&#160;,&#x27;&#x27;&#x27;&#x27;||||</text>
-<text x="0" y="128">&#160;&#160;;|]%@@@@@@@@%%%%%%kh&#160;&#160;*|mkr&#160;&#160;&#160;*</text>
-<text x="0" y="144">&#160;&#160;;j%M`&#160;&#160;&#160;&#160;&#160;&#160;|jkk&#x27;&#160;&#160;~nrn=|</text>
-<text x="0" y="160">&#160;&#160;&#160;!&#160;jrr*^`&#160;&#160;&#160;&#160;&#160;&#160;&#160;\&quot;|&#160;L&quot;&#x27;!:&#160;</text>
-<text x="0" y="176">&#160;&#160;&#160;&#160;j&#160;1p;,&#160;&#160;&#160;&#160;&#160;/&#160;&#160;@@&#160;&#160;&#160;&#160;`\mmy`&#160;&#160;,~</text>
-<text x="0" y="192">&#160;&#160;&#160;i&#160;r&#160;@@@@mMH&#160;@@@&#160;&#160;&#160;^^^**m%,p&#160;,&#160;.~</text>
-<text x="0" y="208">&#160;&#160;&#160;|&#160;|@@@HHH&#160;g@M%%%H,jmgpmb%&#160;j</text>
-<text x="0" y="224">&#160;&#160;&#160;;&#160;j%@%%%%[n,|;&#160;j;%%%|%%**&#160;,&#160;[</text>
-<text x="0" y="240">&#160;&#160;&#160;&#160;H|%%k%%g%%%||||;&#160;j%%%|%%}&#160;@</text>
-<text x="0" y="256">&#160;&#160;&#160;&#160;\&quot;djjmkL,,&#x27;||||,,,wxwx;&#160;|#kjk</text>
-<text x="0" y="272">&#160;&#160;&#160;&#160;&#160;&#160;%%%@%%g%%|M%%%|j%ki||[</text>
-<text x="0" y="288">&#160;&#160;&#160;&#160;&#160;&#160;&#160;kjj%%kkkl||||||j|j|\&quot;</text>
-<text x="0" y="304">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;|jm%H@@@%%%kkmk%*i|.,[</text>
-<text x="0" y="320">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;@p|j%%@%%g%%|M%%*&#x27;-;,j</text>
-<text x="0" y="336">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;|@@@g|&#x27;&#x27;&#x27;--&#x27;&#x27;|&#160;&#160;`;j%%</text>
-<text x="0" y="352">&#160;&#160;&#160;&#160;&#160;&#160;&#160;@@@@@@gmp;,,,,;jM%%</text>
-<text x="0" y="368">&#160;&#160;&#160;&#160;&#160;&#160;@@@@@@@@%%kgi||||j%%k@&#160;.</text>
-<text x="0" y="384">&#160;&#160;&#160;&#160;.^[&#x27;&#x27;&#160;@@@@HH%b%{ill|kj}%%%%&#160;;</text>
-<text x="0" y="400">&#160;&#160;=[,&#160;.&#160;=.&#160;%HH%%g@Hgkil|j%j%%*&#160;.&#160;&#160;.</text>
-</g>
-<text x="32" y="585" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="22" font-weight="600" fill="#edf3ef" >leandrojo</text>
-<text x="32" y="615" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="400" fill="#a5b6ba" >Brazil · UTC−3 · Remote</text>
-<text x="414" y="119" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="48" font-weight="650" fill="#edf3ef" >Leandro Araújo</text>
-<text x="416" y="156" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="400" fill="#a5b6ba" >Senior Software Engineer</text>
-<text x="414" y="222" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="38" font-weight="600" fill="#a6e3c8" >AI agents &amp; backend.</text>
-<text x="416" y="259" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="400" fill="#a5b6ba" >From interfaces to the systems behind them.</text>
-<path d="M416 289H1158" stroke="#304148"/>
-<text x="416" y="324" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="500" fill="#a6e3c8" letter-spacing="1.5">01 / BUILD</text>
-<text x="416" y="358" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="400" fill="#edf3ef" >Stateful agents · tool integration · observability</text>
-<text x="416" y="388" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="400" fill="#a5b6ba" >Durable workflows with human review.</text>
-<text x="416" y="434" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="500" fill="#a6e3c8" letter-spacing="1.5">02 / STACK</text>
-<text x="416" y="468" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="400" fill="#edf3ef" >TypeScript · Node.js · React Native</text>
-<text x="416" y="499" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="400" fill="#a5b6ba" >AWS · GCP · Azure · Python for OCR</text>
-<path d="M416 527H1158" stroke="#304148"/>
-<text x="416" y="561" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="500" fill="#a6e3c8" letter-spacing="1.5">03 / EXPERIENCE</text>
-<text x="416" y="593" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="400" fill="#edf3ef" >meutudo’s first employee. Built its mobile app.</text>
-<text x="416" y="624" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="400" fill="#a5b6ba" >Boticário · Sabesp · US healthtech</text>
+  <title id="title">Leandro Araújo — Senior Software Engineer</title>
+  <desc id="desc">AI agents and backend systems, with a product mindset. Building software since 2011. Stateful agents, tool integration, observability and human review. TypeScript, Node.js, React Native, AWS, GCP, Azure and Python for OCR. First employee at meutudo; built its Android and iOS app. Also worked on mobile products for Boticário and Sabesp, and remotely for a US healthtech. Brazil, UTC-3.</desc>
+  <defs />
+  <rect x="1" y="1" width="1198" height="662" rx="20" fill="#10171c" stroke="#304148" stroke-width="2" />
+  <g aria-hidden="true">
+    <circle cx="30" cy="27" r="4" fill="#d58c83" />
+    <circle cx="46" cy="27" r="4" fill="#d6bd7c" />
+    <circle cx="62" cy="27" r="4" fill="#8dc9aa" />
+  </g>
+  <text x="84" y="32" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="400" fill="#a5b6ba">~/leandrojo</text>
+  <path d="M1 54H1199" stroke="#304148" />
+  <text x="1158" y="32" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="400" fill="#a5b6ba" text-anchor="end">building since 2011</text>
+  <path d="M2 55H370V662H20Q2 662 2 644Z" fill="#141f25" />
+  <path d="M370 55V663" stroke="#304148" />
+  <text x="32" y="99" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="16" font-weight="400" fill="#a6e3c8">$ whoami</text>
+  <g aria-hidden="true" font-family="Menlo,Consolas,monospace" font-size="6.602990033222592" fill="#a6e3c8" xml:space="preserve">
+    <text x="26" y="138.21" textLength="318" lengthAdjust="spacingAndGlyphs">                                                                                </text>
+    <text x="26" y="146.17153846153846" textLength="318" lengthAdjust="spacingAndGlyphs">                                         .                                      </text>
+    <text x="26" y="154.1330769230769" textLength="318" lengthAdjust="spacingAndGlyphs">                                    .,,..-:......                               </text>
+    <text x="26" y="162.0946153846154" textLength="318" lengthAdjust="spacingAndGlyphs">                              ..--:;;::::;;:;::..-.                             </text>
+    <text x="26" y="170.05615384615385" textLength="318" lengthAdjust="spacingAndGlyphs">                          .-:;;;;;::::::;:::-,;,,.-.                            </text>
+    <text x="26" y="178.0176923076923" textLength="318" lengthAdjust="spacingAndGlyphs">                      . ,:;;:::::;.;::-;;::.:,;::,;:--.                         </text>
+    <text x="26" y="185.97923076923075" textLength="318" lengthAdjust="spacingAndGlyphs">                      -.;;;,-..,,-.,::::::-,;;::,,:;:;+;;:.                     </text>
+    <text x="26" y="193.94076923076923" textLength="318" lengthAdjust="spacingAndGlyphs">                   ..-::;;::::-,,;-.,-,-..........:;:-::::::.                   </text>
+    <text x="26" y="201.9023076923077" textLength="318" lengthAdjust="spacingAndGlyphs">                  ,.,,:,::::;:,:,;-,::;.........--.:,::,;,,:::                  </text>
+    <text x="26" y="209.86384615384614" textLength="318" lengthAdjust="spacingAndGlyphs">                 .:;:,:.:;:.::....;*::.-=xXXXxXX%X+:-...::::::-                 </text>
+    <text x="26" y="217.82538461538462" textLength="318" lengthAdjust="spacingAndGlyphs">               .:;:::::;-::-...:+%##%Xx#MMMMMMMMMM#%Xx=..:-:::--                </text>
+    <text x="26" y="225.78692307692307" textLength="318" lengthAdjust="spacingAndGlyphs">             .:;;:::,:::;:,+=:xX#MMMM@@MMMMMMMMM##MMMM#X..--,,::                </text>
+    <text x="26" y="233.74846153846153" textLength="318" lengthAdjust="spacingAndGlyphs">             ::;::;::::::-+x=*##MMMMMMMMMMMMMMMMMM####MMX...,::-.               </text>
+    <text x="26" y="241.71" textLength="318" lengthAdjust="spacingAndGlyphs">             .::,;:::;:-,-xXX#MMMMMMMMMMMMMMMMMMMMMM#M##Mx.,.:-.                </text>
+    <text x="26" y="249.67153846153846" textLength="318" lengthAdjust="spacingAndGlyphs">             ,::;:.-.,..-,+#MM##MMM@@@@@@MMMMMMM@@@@MMM#MM+.-:,.                </text>
+    <text x="26" y="257.63307692307694" textLength="318" lengthAdjust="spacingAndGlyphs">            :;:,::-..:.--,,XM#MM@M#M#%%%#MMMMMMM#Xx+;;+=x%%-.::                 </text>
+    <text x="26" y="265.5946153846154" textLength="318" lengthAdjust="spacingAndGlyphs">           .:..:;:.....,-;,XM###X++;;==*XxX%MMM%Xxxx%##%X%X*.,:                 </text>
+    <text x="26" y="273.55615384615385" textLength="318" lengthAdjust="spacingAndGlyphs">          ..-:;-:;-...---,xM%x=xX#M@@M#%####MMM#XXXXXXXXX##M+.:                 </text>
+    <text x="26" y="281.5176923076923" textLength="318" lengthAdjust="spacingAndGlyphs">            .:::::,...-.:XM#xXMM##XxxXXXXXX##M@M%xxX...X=x%M#:.                 </text>
+    <text x="26" y="289.47923076923075" textLength="318" lengthAdjust="spacingAndGlyphs">            .::-;:....,.###%%#%x;;..+%XXXX%##M@MM%XXXX%%####Mx.                 </text>
+    <text x="26" y="297.4407692307692" textLength="318" lengthAdjust="spacingAndGlyphs">             .:.,,,..-.=#######%%#%%%%%%######MMM#########M#M%.                 </text>
+    <text x="26" y="305.40230769230766" textLength="318" lengthAdjust="spacingAndGlyphs">               :.......=M#####MM#MMM##MMM##%##MMMM##MM####M#M#;                 </text>
+    <text x="26" y="313.36384615384617" textLength="318" lengthAdjust="spacingAndGlyphs">                .;##X..+####MMMMMMMMMMMMMM%#M@@@MMM##MMMM####M+                 </text>
+    <text x="26" y="321.3253846153846" textLength="318" lengthAdjust="spacingAndGlyphs">                 :M@MX;:#####MMMMMMMMMMMM#%MM#M@MMM##MMMM#####x                 </text>
+    <text x="26" y="329.2869230769231" textLength="318" lengthAdjust="spacingAndGlyphs">                 .##X#x:#M####MMMMMMMMMMMM##XX%##X=XMM@@@M####*                 </text>
+    <text x="26" y="337.2484615384615" textLength="318" lengthAdjust="spacingAndGlyphs">                 .xM#MX+x#####MMMMMMMM@@@@MX=::*%*..+==xXMMMMM+                 </text>
+    <text x="26" y="345.21000000000004" textLength="318" lengthAdjust="spacingAndGlyphs">                  -M@@@x+X####MMMMMMM@#XXx=:;-:xxxxxXXx:..x%M#;                 </text>
+    <text x="26" y="353.1715384615385" textLength="318" lengthAdjust="spacingAndGlyphs">                   :XXX;x=X##MMMMMMMM*:::;X#M###%#%%X%%%x;.xXx:                 </text>
+    <text x="26" y="361.13307692307694" textLength="318" lengthAdjust="spacingAndGlyphs">                    ....Xx*X#%#MMMM@X:;:x#%XXXX%%%%#%XX%#X:=x;-                 </text>
+    <text x="26" y="369.0946153846154" textLength="318" lengthAdjust="spacingAndGlyphs">                      :.:X;x#XXX%%%Mx++%#%%###M#%XXXX#MMMM*+*,.                 </text>
+    <text x="26" y="377.05615384615385" textLength="318" lengthAdjust="spacingAndGlyphs">                       ;.+x*x%%x*=*xx;%@@MMMMX*;..:+x#MM#x;-:-.                 </text>
+    <text x="26" y="385.0176923076923" textLength="318" lengthAdjust="spacingAndGlyphs">                        ;;+=;x#%xXXx++X%#MMMM#%x*;xXMMM%x:....                  </text>
+    <text x="26" y="392.97923076923075" textLength="318" lengthAdjust="spacingAndGlyphs">                       X#:=X:.+Xx*x+,,:;*X##M@XX%Xx%%XX+,-,.-                   </text>
+    <text x="26" y="400.9407692307692" textLength="318" lengthAdjust="spacingAndGlyphs">                      #@#-.MX;..;-.-,..,:-+=xXX%XxxXx=*:,:.;%*                  </text>
+    <text x="26" y="408.9023076923077" textLength="318" lengthAdjust="spacingAndGlyphs">                    -#@M@#.x@M%=....---,,.:::;=xXxx**=:,..;X#M@@M#%Xx+;,..      </text>
+    <text x="26" y="416.86384615384617" textLength="318" lengthAdjust="spacingAndGlyphs">               ,=XX#@@MM@@#.X#MM%=.....----:,:.+x+;::...-%Xx%%##MMMMMM@@@@@@MM%X</text>
+    <text x="26" y="424.8253846153846" textLength="318" lengthAdjust="spacingAndGlyphs">            :%@@#X%@MMMM@M@#;X##MM#%x+................;XM@;.xM%#MMMMMM%X%MMMM@@@</text>
+    <text x="26" y="432.7869230769231" textLength="318" lengthAdjust="spacingAndGlyphs">        ,X#@@@@#X#@@@MMM@@M@#;X###MMMM#%x*+;:.-:,:+*X#MM##X..*###MMM@MM#%%#MMMM@</text>
+    <text x="26" y="440.7484615384615" textLength="318" lengthAdjust="spacingAndGlyphs">     .=#@@@M#MM@@M#@@M@MM@@M@#=x#####MMMMMMMM##MMMM@MM###%%*..:##MMMM@MMM#%#M@MM</text>
+    <text x="26" y="448.71000000000004" textLength="318" lengthAdjust="spacingAndGlyphs">.=%M@@@@MMMMMMMMMM#M@@@MMM@@@@Mxx####MMMMMMMMMM##M#######%#X,:.=MM#MMMMM@@M##M@M</text>
+    <text x="26" y="456.6715384615385" textLength="318" lengthAdjust="spacingAndGlyphs">@@@@MMMMMM@@@MM#M@M%@M@MMMM@@@M@X;%#M###MMMMMMM#########%%#X:::.XM#M#MM@##@@M#MM</text>
+    <text x="26" y="464.63307692307694" textLength="318" lengthAdjust="spacingAndGlyphs">MMM@@@@@@@@@@@@MMM@#M@@@@MM@@@@@@x.=%MMMM##MMMMM#####MM#%%#%;;;..#M#MMM@M*X#MMMM</text>
+    <text x="26" y="472.5946153846154" textLength="318" lengthAdjust="spacingAndGlyphs">@@@@@@@@M@@@@@@@MMMM#@M@@@MM@@@M@@x..:x%#MMMMMMMMM#########X;;::.X@#MMMM#X%%#MMM</text>
+    <text x="26" y="480.5561538461539" textLength="318" lengthAdjust="spacingAndGlyphs">MM@MMM@@MMMMM@@@MMMM#@@@@@MM@@x.:M@Mx...:=x%#M@@@MMMMMMM##x;;:,;.x@MM#M##@M#MMMM</text>
+    <text x="26" y="488.51769230769236" textLength="318" lengthAdjust="spacingAndGlyphs">MMMMMMMM@MMMMMM@@M#M#MM@@@@@#;x#;:%M@@X-.....:+=xxXXXXx*;::;;::;..@MMM@MXM@MMMMM</text>
+    <text x="26" y="496.4792307692308" textLength="318" lengthAdjust="spacingAndGlyphs">@@@@@@MMM@MMMMMM@@M##@@@@M#X*xXM@x;X#M@M..::::-.....-,:::;;;;:,;:.x@MMM#X#@@@MMM</text>
+    <text x="26" y="504.44076923076926" textLength="318" lengthAdjust="spacingAndGlyphs">@@@MMMMMMMMMM@MMMM@M%%XXX%%%####@@Xx%#M@@x..;;;;+;;;;;;;;;;;::;=;..#@M#M##MMMMMM</text>
+    <text x="26" y="512.4023076923077" textLength="318" lengthAdjust="spacingAndGlyphs">MM@@@MMMMMMMMMMMMM@@M#M@@@@M####M@@XX%M#M@M*,;::;;++;;;;;;;;:;;+:,.,M@#M@##MMMMM</text>
+    <text x="26" y="520.3638461538462" textLength="318" lengthAdjust="spacingAndGlyphs">##MM@@MMMMMMMMMMMMM@M#M@@@MMMM#%#M@MX%MMMMM@::+;;::;;;;+++;;;;;+:::.*@MMMMMMM@MM</text>
+    <text x="26" y="528.3253846153847" textLength="318" lengthAdjust="spacingAndGlyphs">MM#MM@@@MM@MMMMMMMM@@M#M@@MMMMMMMM@@M%#@M#MM@.;=+;;;;::;;;;:;;=+:::,.#@MM@@MMMMM</text>
+    <text x="26" y="536.2869230769231" textLength="318" lengthAdjust="spacingAndGlyphs">@MMM##M@MMMMMMMM#M@@@@##MMMM@MMMMMM@@M%M@M#M@*.:;+++;;;;;+;;++;;:;;:..@@MM@MMMMM</text>
+    <text x="26" y="544.2484615384616" textLength="318" lengthAdjust="spacingAndGlyphs">M@MMM##M@M%MMMMM##@@@@M#MMMMM@MMMMM@@@##@MMM@M.::;++++;;;+;;;;=;;;;;;.=@MMM@MMMM</text>
+  </g>
+  <text x="32" y="585" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="22" font-weight="600" fill="#edf3ef">leandrojo</text>
+  <text x="32" y="615" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="400" fill="#a5b6ba">Brazil · UTC−3 · Remote</text>
+  <text x="414" y="119" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="48" font-weight="650" fill="#edf3ef">Leandro Araújo</text>
+  <text x="416" y="156" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="400" fill="#a5b6ba">Senior Software Engineer</text>
+  <text x="414" y="222" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="38" font-weight="600" fill="#a6e3c8">AI agents &amp; backend.</text>
+  <text x="416" y="259" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="400" fill="#a5b6ba">From interfaces to the systems behind them.</text>
+  <path d="M416 289H1158" stroke="#304148" />
+  <text x="416" y="324" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="500" fill="#a6e3c8" letter-spacing="1.5">01 / BUILD</text>
+  <text x="416" y="358" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="400" fill="#edf3ef">Stateful agents · tool integration · observability</text>
+  <text x="416" y="388" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="400" fill="#a5b6ba">Durable workflows with human review.</text>
+  <text x="416" y="434" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="500" fill="#a6e3c8" letter-spacing="1.5">02 / STACK</text>
+  <text x="416" y="468" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="400" fill="#edf3ef">TypeScript · Node.js · React Native</text>
+  <text x="416" y="499" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="400" fill="#a5b6ba">AWS · GCP · Azure · Python for OCR</text>
+  <path d="M416 527H1158" stroke="#304148" />
+  <text x="416" y="561" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="500" fill="#a6e3c8" letter-spacing="1.5">03 / EXPERIENCE</text>
+  <text x="416" y="593" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="400" fill="#edf3ef">meutudo’s first employee. Built its mobile app.</text>
+  <text x="416" y="624" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="400" fill="#a5b6ba">Boticário · Sabesp · US healthtech</text>
 </svg>
