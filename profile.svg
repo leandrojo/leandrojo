@@ -1,55 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
-  <title id="title">Leandro Araújo — terminal profile</title>
-  <desc id="desc">Terminal-style GitHub profile with an ASCII portrait and colorful public profile details.</desc>
-  <rect width="1200" height="560" rx="18" fill="#161b22"/>
-  <rect x="1" y="1" width="1198" height="558" rx="17" fill="none" stroke="#30363d" stroke-width="2"/>
-  <g xml:space="preserve" font-family="monospace">
-    <text x="28" y="36" fill="#e6edf3" font-size="17">       @%%@%%@%W,,</text>
-    <text x="28" y="54" fill="#e6edf3" font-size="17">     ,M*|`||%gNM=]m%%||%N,</text>
-    <text x="28" y="72" fill="#e6edf3" font-size="17">    p'   .'| ` '|||||nj%w</text>
-    <text x="28" y="90" fill="#e6edf3" font-size="17">   ,@L`     .  `   |%j%M</text>
-    <text x="28" y="108" fill="#e6edf3" font-size="17">  /{j'`. .wp@pw,   .  |%wg</text>
-    <text x="28" y="126" fill="#e6edf3" font-size="17">  /{|||@@@@@@@@p@p,       |||</text>
-    <text x="28" y="144" fill="#e6edf3" font-size="17">  ;|]%@@@@@@@@@@@@@       ,||||</text>
-    <text x="28" y="162" fill="#e6edf3" font-size="17">  ;|]%@@@@@@@@@@@@@p   ,''''||||</text>
-    <text x="28" y="180" fill="#e6edf3" font-size="17">  ;|]%@@@@@@@@%%%%%%kh  *|mkr   *</text>
-    <text x="28" y="198" fill="#e6edf3" font-size="17">  ;j%M`      |jkk'  ~nrn=|</text>
-    <text x="28" y="216" fill="#e6edf3" font-size="17">   ! jrr*^`       \"| L"'!: </text>
-    <text x="28" y="234" fill="#e6edf3" font-size="17">    j 1p;,     /  @@    `\mmy`  ,~</text>
-    <text x="28" y="252" fill="#e6edf3" font-size="17">   i r @@@@mMH @@@   ^^^**m%,p , .~</text>
-    <text x="28" y="270" fill="#e6edf3" font-size="17">   | |@@@HHH g@M%%%H,jmgpmb% j</text>
-    <text x="28" y="288" fill="#e6edf3" font-size="17">   ; j%@%%%%[n,|; j;%%%|%%** , [</text>
-    <text x="28" y="306" fill="#e6edf3" font-size="17">    H|%%k%%g%%%||||; j%%%|%%} @</text>
-    <text x="28" y="324" fill="#e6edf3" font-size="17">    \"djjmkL,,'||||,,,wxwx; |#kjk</text>
-    <text x="28" y="342" fill="#e6edf3" font-size="17">      %%%@%%g%%|M%%%|j%ki||[</text>
-    <text x="28" y="360" fill="#e6edf3" font-size="17">       kjj%%kkkl||||||j|j|\"</text>
-    <text x="28" y="378" fill="#e6edf3" font-size="17">        |jm%H@@@%%%kkmk%*i|.,[</text>
-    <text x="28" y="396" fill="#e6edf3" font-size="17">        @p|j%%@%%g%%|M%%*'-;,j</text>
-    <text x="28" y="414" fill="#e6edf3" font-size="17">        |@@@g|'''--''|  `;j%%</text>
-    <text x="28" y="432" fill="#e6edf3" font-size="17">       @@@@@@gmp;,,,,;jM%%</text>
-    <text x="28" y="450" fill="#e6edf3" font-size="17">      @@@@@@@@%%kgi||||j%%k@ .</text>
-    <text x="28" y="468" fill="#e6edf3" font-size="17">    .^['' @@@@HH%b%{ill|kj}%%%% ;</text>
-    <text x="28" y="486" fill="#e6edf3" font-size="17">  =[, . =. %HH%%g@Hgkil|j%j%%* .  .</text>
-    <text x="28" y="522" fill="#8b949e" font-size="15">       leandrojo // profile.svg</text>
-  </g>
-  <g xml:space="preserve" font-family="monospace" font-size="18">
-    <text x="540" y="36" fill="#e6edf3" font-size="21" font-weight="700">leandrojo</text>
-    <line x1="660" y1="30" x2="1160" y2="30" stroke="#8b949e"/>
-    <text x="540" y="69" fill="#ffa657">. OS:</text><text x="675" y="69" fill="#8b949e">...................</text><text x="875" y="69" fill="#79c0ff">macOS, Linux, Windows</text>
-    <text x="540" y="96" fill="#ffa657">. Host:</text><text x="675" y="96" fill="#8b949e">..................</text><text x="875" y="96" fill="#79c0ff">São Paulo, Brasil</text>
-    <text x="540" y="123" fill="#ffa657">. Stack:</text><text x="675" y="123" fill="#8b949e">.................</text><text x="875" y="123" fill="#79c0ff">TypeScript, Rust, Python</text>
-    <text x="540" y="150" fill="#ffa657">. IDE:</text><text x="675" y="150" fill="#8b949e">...................</text><text x="875" y="150" fill="#79c0ff">VS Code, Cursor</text>
-    <text x="540" y="190" fill="#ffa657">- Focus</text><line x1="625" y1="184" x2="1160" y2="184" stroke="#8b949e"/>
-    <text x="540" y="219" fill="#ff7b72">  Products:</text><text x="710" y="219" fill="#e6edf3">interfaces, tools, and systems</text>
-    <text x="540" y="246" fill="#ff7b72">  Systems:</text><text x="710" y="246" fill="#e6edf3">runtime, reliability, automation</text>
-    <text x="540" y="273" fill="#ff7b72">  Agents:</text><text x="710" y="273" fill="#e6edf3">bounded workflows and continuity</text>
-    <text x="540" y="313" fill="#ffa657">- Projects</text><line x1="650" y1="307" x2="1160" y2="307" stroke="#8b949e"/>
-    <text x="540" y="342" fill="#d2a8ff">  forum:</text><text x="710" y="342" fill="#79c0ff">github.com/leandrojo/forum</text>
-    <text x="540" y="369" fill="#d2a8ff">  rhapsody:</text><text x="710" y="369" fill="#79c0ff">github.com/leandrojo/rhapsody</text>
-    <text x="540" y="396" fill="#d2a8ff">  profile:</text><text x="710" y="396" fill="#79c0ff">github.com/leandrojo</text>
-    <text x="540" y="436" fill="#ffa657">- GitHub Snapshot</text><line x1="745" y1="430" x2="1160" y2="430" stroke="#8b949e"/>
-    <text x="540" y="465" fill="#ff7b72">  Repos:</text><text x="690" y="465" fill="#79c0ff">131</text><text x="760" y="465" fill="#ff7b72">Followers:</text><text x="950" y="465" fill="#79c0ff">82</text>
-    <text x="540" y="492" fill="#ff7b72">  Contributions:</text><text x="760" y="492" fill="#7ee787">5,565 in the last year</text>
-    <text x="540" y="523" fill="#8b949e" font-size="14">  snapshot 2026-08-19  •  public profile data</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="664" viewBox="0 0 1200 664" role="img" aria-labelledby="title desc">
+<title id="title">Leandro Araújo — Senior Software Engineer</title>
+<desc id="desc">AI agents and backend systems, with a product mindset. Building software since 2011. Stateful agents, tool integration, observability and human review. TypeScript, Node.js, React Native, AWS, GCP, Azure and Python for OCR. First employee at meutudo; built its Android and iOS app. Also worked on mobile products for Boticário and Sabesp, and remotely for a US healthtech. Brazil, UTC-3.</desc>
+<defs><linearGradient id="portrait" x1="0" y1="0" x2="0.25" y2="1"><stop stop-color="#b7ebd6"/><stop offset="1" stop-color="#769b98"/></linearGradient></defs>
+<rect x="1" y="1" width="1198" height="662" rx="20" fill="#10171c" stroke="#304148" stroke-width="2"/>
+<g aria-hidden="true"><circle cx="30" cy="27" r="4" fill="#d58c83"/><circle cx="46" cy="27" r="4" fill="#d6bd7c"/><circle cx="62" cy="27" r="4" fill="#8dc9aa"/></g>
+<text x="84" y="32" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="400" fill="#a5b6ba" >~/leandrojo</text>
+<path d="M1 54H1199" stroke="#304148"/>
+<text x="1158" y="32" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="400" fill="#a5b6ba" text-anchor="end">building since 2011</text>
+<path d="M2 55H370V662H20Q2 662 2 644Z" fill="#141f25"/>
+<path d="M370 55V663" stroke="#304148"/>
+<text x="32" y="99" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="16" font-weight="400" fill="#a6e3c8" >$ whoami</text>
+<g transform="translate(24 137) scale(1)" aria-hidden="true" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="15" fill="url(#portrait)" xml:space="preserve" style="white-space:pre">
+<text x="0" y="0">&#160;&#160;&#160;&#160;&#160;&#160;&#160;@%%@%%@%W,,</text>
+<text x="0" y="16">&#160;&#160;&#160;&#160;&#160;,M*|`||%gNM=]m%%||%N,</text>
+<text x="0" y="32">&#160;&#160;&#160;&#160;p&#x27;&#160;&#160;&#160;.&#x27;|&#160;`&#160;&#x27;|||||nj%w</text>
+<text x="0" y="48">&#160;&#160;&#160;,@L`&#160;&#160;&#160;&#160;&#160;.&#160;&#160;`&#160;&#160;&#160;|%j%M</text>
+<text x="0" y="64">&#160;&#160;/{j&#x27;`.&#160;.wp@pw,&#160;&#160;&#160;.&#160;&#160;|%wg</text>
+<text x="0" y="80">&#160;&#160;/{|||@@@@@@@@p@p,&#160;&#160;&#160;&#160;&#160;&#160;&#160;|||</text>
+<text x="0" y="96">&#160;&#160;;|]%@@@@@@@@@@@@@&#160;&#160;&#160;&#160;&#160;&#160;&#160;,||||</text>
+<text x="0" y="112">&#160;&#160;;|]%@@@@@@@@@@@@@p&#160;&#160;&#160;,&#x27;&#x27;&#x27;&#x27;||||</text>
+<text x="0" y="128">&#160;&#160;;|]%@@@@@@@@%%%%%%kh&#160;&#160;*|mkr&#160;&#160;&#160;*</text>
+<text x="0" y="144">&#160;&#160;;j%M`&#160;&#160;&#160;&#160;&#160;&#160;|jkk&#x27;&#160;&#160;~nrn=|</text>
+<text x="0" y="160">&#160;&#160;&#160;!&#160;jrr*^`&#160;&#160;&#160;&#160;&#160;&#160;&#160;\&quot;|&#160;L&quot;&#x27;!:&#160;</text>
+<text x="0" y="176">&#160;&#160;&#160;&#160;j&#160;1p;,&#160;&#160;&#160;&#160;&#160;/&#160;&#160;@@&#160;&#160;&#160;&#160;`\mmy`&#160;&#160;,~</text>
+<text x="0" y="192">&#160;&#160;&#160;i&#160;r&#160;@@@@mMH&#160;@@@&#160;&#160;&#160;^^^**m%,p&#160;,&#160;.~</text>
+<text x="0" y="208">&#160;&#160;&#160;|&#160;|@@@HHH&#160;g@M%%%H,jmgpmb%&#160;j</text>
+<text x="0" y="224">&#160;&#160;&#160;;&#160;j%@%%%%[n,|;&#160;j;%%%|%%**&#160;,&#160;[</text>
+<text x="0" y="240">&#160;&#160;&#160;&#160;H|%%k%%g%%%||||;&#160;j%%%|%%}&#160;@</text>
+<text x="0" y="256">&#160;&#160;&#160;&#160;\&quot;djjmkL,,&#x27;||||,,,wxwx;&#160;|#kjk</text>
+<text x="0" y="272">&#160;&#160;&#160;&#160;&#160;&#160;%%%@%%g%%|M%%%|j%ki||[</text>
+<text x="0" y="288">&#160;&#160;&#160;&#160;&#160;&#160;&#160;kjj%%kkkl||||||j|j|\&quot;</text>
+<text x="0" y="304">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;|jm%H@@@%%%kkmk%*i|.,[</text>
+<text x="0" y="320">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;@p|j%%@%%g%%|M%%*&#x27;-;,j</text>
+<text x="0" y="336">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;|@@@g|&#x27;&#x27;&#x27;--&#x27;&#x27;|&#160;&#160;`;j%%</text>
+<text x="0" y="352">&#160;&#160;&#160;&#160;&#160;&#160;&#160;@@@@@@gmp;,,,,;jM%%</text>
+<text x="0" y="368">&#160;&#160;&#160;&#160;&#160;&#160;@@@@@@@@%%kgi||||j%%k@&#160;.</text>
+<text x="0" y="384">&#160;&#160;&#160;&#160;.^[&#x27;&#x27;&#160;@@@@HH%b%{ill|kj}%%%%&#160;;</text>
+<text x="0" y="400">&#160;&#160;=[,&#160;.&#160;=.&#160;%HH%%g@Hgkil|j%j%%*&#160;.&#160;&#160;.</text>
+</g>
+<text x="32" y="585" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="22" font-weight="600" fill="#edf3ef" >leandrojo</text>
+<text x="32" y="615" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" font-weight="400" fill="#a5b6ba" >Brazil · UTC−3 · Remote</text>
+<text x="414" y="119" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="48" font-weight="650" fill="#edf3ef" >Leandro Araújo</text>
+<text x="416" y="156" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="400" fill="#a5b6ba" >Senior Software Engineer</text>
+<text x="414" y="222" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="38" font-weight="600" fill="#a6e3c8" >AI agents &amp; backend.</text>
+<text x="416" y="259" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="400" fill="#a5b6ba" >From interfaces to the systems behind them.</text>
+<path d="M416 289H1158" stroke="#304148"/>
+<text x="416" y="324" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="500" fill="#a6e3c8" letter-spacing="1.5">01 / BUILD</text>
+<text x="416" y="358" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="400" fill="#edf3ef" >Stateful agents · tool integration · observability</text>
+<text x="416" y="388" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="400" fill="#a5b6ba" >Durable workflows with human review.</text>
+<text x="416" y="434" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="500" fill="#a6e3c8" letter-spacing="1.5">02 / STACK</text>
+<text x="416" y="468" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="23" font-weight="400" fill="#edf3ef" >TypeScript · Node.js · React Native</text>
+<text x="416" y="499" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="400" fill="#a5b6ba" >AWS · GCP · Azure · Python for OCR</text>
+<path d="M416 527H1158" stroke="#304148"/>
+<text x="416" y="561" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14" font-weight="500" fill="#a6e3c8" letter-spacing="1.5">03 / EXPERIENCE</text>
+<text x="416" y="593" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" font-weight="400" fill="#edf3ef" >meutudo’s first employee. Built its mobile app.</text>
+<text x="416" y="624" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="400" fill="#a5b6ba" >Boticário · Sabesp · US healthtech</text>
 </svg>
